@@ -1,0 +1,16 @@
+2018-06-15 16:05:56,643 INFO (StartupInfoLogger.java:50)- Starting HelloWorldControllerApplication on UA6ZGGXUWTHHQIL with PID 71116 (E:\WebFiles\HelloWorldController\target\classes started by Administrator in E:\WebFiles\HelloWorldController)
+2018-06-15 16:05:56,650 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2018-06-15 16:05:56,654 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-06-15 16:06:07,517 INFO (StartupInfoLogger.java:59)- Started HelloWorldControllerApplication in 12.476 seconds (JVM running for 13.663)
+2018-06-15 16:06:14,615 DEBUG (HelloController.java:47)- DeBug日志记录....
+2018-06-15 16:06:14,617 INFO (HelloController.java:48)- Info日志记录....
+2018-06-15 16:06:14,618 ERROR (HelloController.java:49)- Error日志记录....
+2018-06-15 16:44:24,561 INFO (StartupInfoLogger.java:50)- Starting HelloWorldControllerApplication on UA6ZGGXUWTHHQIL with PID 14996 (E:\WebFiles\HelloWorldController\target\classes started by Administrator in E:\WebFiles\HelloWorldController)
+2018-06-15 16:44:24,569 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2018-06-15 16:44:24,572 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-06-15 16:44:53,416 INFO (StartupInfoLogger.java:59)- Started HelloWorldControllerApplication in 30.868 seconds (JVM running for 32.25)
+2018-06-15 16:45:09,179 INFO (StudentDataController.java:26)- 从web数据库student表读取学生数据集合....
+2018-06-15 17:17:45,515 INFO (StartupInfoLogger.java:50)- Starting HelloWorldControllerApplicationTests on UA6ZGGXUWTHHQIL with PID 80236 (started by Administrator in E:\WebFiles\HelloWorldController)
+2018-06-15 17:17:45,543 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2018-06-15 17:17:45,546 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-06-15 17:18:04,183 INFO (StartupInfoLogger.java:59)- Started HelloWorldControllerApplicationTests in 19.595 seconds (JVM running for 22.991)
